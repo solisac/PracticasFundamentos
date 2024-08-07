@@ -16,6 +16,11 @@ public class Aplicacion {
     public static void main(String[] args) {
        
         division();
+        suma();
+        multiplicacion();
+        numerosUnoDiezDoWhile();
+        numerosUnoDiezFor();
+        numerosUnoDiezWhile();
         
     }
     
